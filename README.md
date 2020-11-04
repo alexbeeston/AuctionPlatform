@@ -1,4 +1,4 @@
-# Background
+## Background
 This project was developed by a team of four students as a class project for CS3450, Introduction to Software Engineering, at Utah State University. The code was developed over the Fall 2019 semester and provides a platform for a small-scale local auction, both live and silent. The platform runs over a local networt.
 
 ## Build instructions
